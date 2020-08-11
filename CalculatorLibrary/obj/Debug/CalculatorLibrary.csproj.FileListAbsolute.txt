@@ -1,0 +1,6 @@
+E:\Assignment_c#\CalculatorLibrary\bin\Debug\CalculatorLibrary.dll
+E:\Assignment_c#\CalculatorLibrary\bin\Debug\CalculatorLibrary.pdb
+E:\Assignment_c#\CalculatorLibrary\obj\Debug\CalculatorLibrary.csprojAssemblyReference.cache
+E:\Assignment_c#\CalculatorLibrary\obj\Debug\CalculatorLibrary.csproj.CoreCompileInputs.cache
+E:\Assignment_c#\CalculatorLibrary\obj\Debug\CalculatorLibrary.dll
+E:\Assignment_c#\CalculatorLibrary\obj\Debug\CalculatorLibrary.pdb
