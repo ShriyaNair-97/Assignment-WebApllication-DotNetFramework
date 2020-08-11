@@ -1,0 +1,2 @@
+E:\Assignment_c#\ConCalculator\obj\Debug\ConCalculator.csprojAssemblyReference.cache
+E:\Assignment_c#\ConCalculator\obj\Debug\ConCalculator.csproj.CoreCompileInputs.cache
